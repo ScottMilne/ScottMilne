@@ -1,4 +1,31 @@
-### Hi there 👋
+<p align="center"> 
+  <img src="Icons/welcome.gif"/>
+  
+  <h2 align="center"> Hi there 👋 </h2>
+  
+</p>
+
+
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1905944)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#
+
+
+
+![](https://komarev.com/ghpvc/?username=1905944) ![Python](https://img.shields.io/badge/-Java-0077B5?style=flat&logoColor=white&logo=Java) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-196eff?style=flat&logoColor=white&logo=php) ![CSharp](https://img.shields.io/badge/-CSharp-ffdd19?style=flat&logoColor=white&logo=C#)
+
+
+
+<p align="center"> 
+  <img src="Icons/doge.gif" width="300" height="300" />
+</p>
+
+
+
+
+
 
 <!--
 **1905944/1905944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
