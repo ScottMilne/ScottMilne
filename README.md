@@ -5,9 +5,17 @@
   
 </p>
 
+<br>
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1905944)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=1905944&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />
+
+- 🌱 Studying BSc Computing
+- 📫 Ping me by [Email](1905944@uad.ac.uk)
+
+<br>
+<br>
+<br>
+<br>
 
 
 #
@@ -18,9 +26,6 @@
 
 
 
-<p align="center"> 
-  <img src="Icons/doge.gif" width="300" height="300" />
-</p>
 
 
 
