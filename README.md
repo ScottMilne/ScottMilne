@@ -22,7 +22,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=1905944) ![Python](https://img.shields.io/badge/-Java-0077B5?style=flat&logoColor=white&logo=Java) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-196eff?style=flat&logoColor=white&logo=php) ![CSharp](https://img.shields.io/badge/-CSharp-ffdd19?style=flat&logoColor=white&logo=C#)
+![](https://komarev.com/ghpvc/?username=1905944) ![Python](https://img.shields.io/badge/-Java-0077B5?style=flat&logoColor=white&logo=Java) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-903BA7?style=flat&logoColor=white&logo=php) ![CSharp](https://img.shields.io/badge/-CSharp-058E0C?style=flat&logoColor=white&logo=C#)
 
 
 
