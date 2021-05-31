@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=1905944&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ScottMilne&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
 - 🌱 Studying Computing
 - 📫 Ping me by Email (1905944@uad.ac.uk)
