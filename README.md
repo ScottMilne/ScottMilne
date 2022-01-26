@@ -7,11 +7,14 @@
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ScottMilne&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmilne" />
 
-- 🌱 Studying Computing
-- 📫 Ping me by Email (1905944@uad.ac.uk)
+- 🌱 Studying Computing at Abertay University
+- 🛠️ Currently working on a video transcoding site
+- 📫 Ping me by Email (scott.milne6@gmail.com)
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -22,7 +25,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=ScottMilne) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-903BA7?style=flat&logoColor=white&logo=php)
+![](https://komarev.com/ghpvc/?username=ScottMilne)
 
 
 
