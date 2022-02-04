@@ -1,53 +1,16 @@
 <p align="center"> 
-  <img src="Icons/welcome.gif"/>
-  
-  <h2 align="center"> Hi there 👋 </h2>
-  
+  <img src="Icons/Banner.png"/>
 </p>
 
-<br>
+#
+
+![](https://komarev.com/ghpvc/?username=ScottMilne)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-milne-/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white)](https://codepen.io/scottmilne)
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmilne" />
 
 - 🌱 Studying Computing at Abertay University
-- 🛠️ Currently working on a video transcoding site
-- 📫 Ping me by Email (scott.milne6@gmail.com)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-#
-
-
-
-![](https://komarev.com/ghpvc/?username=ScottMilne)
-
-
-
-
-
-
-
-
-
-<!--
-**1905944/1905944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Currently working on my dissertation
+- 📫 Ping me by [Email](mailto:scott.milne6@gmail.com)
