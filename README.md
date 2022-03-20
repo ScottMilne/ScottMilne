@@ -4,9 +4,9 @@
 
 #
 
-![](https://komarev.com/ghpvc/?username=ScottMilne&color=orange)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-milne-/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=blueviolet)](https://codepen.io/scottmilne)
+![](https://komarev.com/ghpvc/?username=ScottMilne&color=orange&style=for-the-badge)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-milne-/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=for-the-badge&logo=codepen&logoColor=white&color=blueviolet)](https://codepen.io/scottmilne)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmilne" />
