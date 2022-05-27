@@ -11,6 +11,33 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmilne" />
 
-- 🌱 Studying Computing at Abertay University
-- 🛠️ Currently working on my dissertation
-- 📫 Ping me by [Email](mailto:scott.milne6@gmail.com)
+- 🎯 <b>I’m currently focusing on:</b> Finding new job opportunities
+- 🌱 <b>I’m currently learning:</b> React
+- 🛠️ <b>I’m currently working on:</b> A portfolio website
+- 📫 <b>You can contact me by:</b> [Email](mailto:scott.milne6@gmail.com)
+
+
+
+<br/>
+
+<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+<div align="right">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wonder13052&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/wonder13052)
+
+</div>
+
+
+
+
