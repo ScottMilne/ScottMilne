@@ -24,19 +24,9 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-<div align="right">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wonder13052&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/wonder13052)
 
-</div>
 
 
 
