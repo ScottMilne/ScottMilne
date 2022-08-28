@@ -11,7 +11,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmilne" />
 
-- 🎯 <b>I’m currently focusing on:</b> Finding new job opportunities
+
 - 🌱 <b>I’m currently learning:</b> React
 - 🛠️ <b>I’m currently working on:</b> A portfolio website
 - 📫 <b>You can contact me by:</b> [Email](mailto:scott.milne6@gmail.com)
